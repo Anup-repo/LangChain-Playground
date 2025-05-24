@@ -60,7 +60,7 @@ Langchain-prompts/
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/LangChain-Playground.git
+    git clone https://github.com/Anup-repo/LangChain-Playground.git
     cd LangChain-Playground
     ```
 
